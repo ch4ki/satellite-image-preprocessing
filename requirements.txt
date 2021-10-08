@@ -1,0 +1,9 @@
+descartes
+earthpy
+geopandas
+rasterio
+shapely
+numpy
+sklearn
+matplotlib
+
